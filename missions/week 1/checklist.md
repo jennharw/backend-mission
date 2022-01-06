@@ -7,7 +7,7 @@
 - [x] 쇼핑몰 상품 리스트, 검색
 - [x] 쇼핑몰 상품 리스트, 페이징   --  /product/items
 - [x] 쇼핑몰 상품 상세페이지
-- [x] 회원가입  -- 참조  https://velog.io/@ayoung0073/DRF-signup-login-jwt
+- [x] 회원가입  -- 참조 
 - [ ] 로그인    --  jwt token은 발급되나, jwt token으로 api 요청 못함 
 - [x] 상품질문기능 구현  --   shop/{id}/qna
 ### 추가과제
@@ -23,6 +23,9 @@ docker-compose.yml
 
 drf django rest framework ; https://www.django-rest-framework.org/tutorial/quickstart/ \
 django_jwt
+
+프론트엔드 부분 부족
+
 
 ## 수행인증영상URL(유튜브)
 
